@@ -11,7 +11,7 @@ ShopSpot is a stylish and simple Flutter app that displays a product list from a
 - ✅ View all products
 - ✅ See product details
 - ✅ Add products to cart (with a success popup)
-- ✅ Navigate smoothly between Home, Products, and Cart
+- ✅ Navigate smoothly between Home, Products
 
 ---
 
@@ -40,12 +40,12 @@ ShopSpot is a stylish and simple Flutter app that displays a product list from a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/TRSiddique/e-commerce-app.git
-   cd shopspot
+   git clone https://github.com/rakib-7/final_exam_api
+  
 
 
 
 👨‍💻 Developed by
 Mohammad Rakib
 
-With 💙 and Flutter 🚀
+With Flutter 🚀
