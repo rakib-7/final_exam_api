@@ -17,9 +17,9 @@ ShopSpot is a stylish and simple Flutter app that displays a product list from a
 
 ## 📱 Screenshots
 
-| Home Page                | Product List                     | Product Details                |
+| Home Page                | Add to Cart                    | Product Details                |
 |--------------------------|----------------------------------|--------------------------------|
-| ![Home](lib/assets/home.png) | ![Products](lib/assets/add cart.png) | ![Details](lib/assets/details.png) |
+| ![Home](lib/assets/home.png) | ![Add to Cart](lib/assets/add_cart.png) | ![Details](lib/assets/details.png) |
 
 > 📁 Place all 4 screenshots in a folder named screenshots inside your project root.
 
